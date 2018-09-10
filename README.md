@@ -2,7 +2,7 @@
 
 Simulator of the Raft algorithm using D3js. It uses [my implementation](https://github.com/guille/raftcore) of the algorithm on the back-end. This project is part of my Bachelor Final Project for the University of Oviedo.
 
-![Simulator UI](https://raw.githubusercontent.com/guille/RaftCoreWeb/master/img.png)
+![Simulator UI](https://raw.githubusercontent.com/guille/RaftCoreWeb/master/img.PNG)
 
 ## Running the app
 
