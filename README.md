@@ -15,3 +15,5 @@ Load the project in Visual Studio and run it, then access the URL shown in the c
 ### Using the dotnet command
 
 Execute the command `dotnet run`, then access the URL shown in the console.
+
+You may need to install `aspnet-runtime`
